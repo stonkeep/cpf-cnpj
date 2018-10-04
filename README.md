@@ -15,4 +15,3 @@ Run this command into your nova project:
 use Stonkeep\CpfCpnj\CpfCpnj;
 CpfCnpj::make('cpf');
 ```
-# cpf-cnpj
